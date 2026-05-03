@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Siddharth Rajak 👋
 
-<!--
-**siddharth0444/siddharth0444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Graduate | Aspiring Data Scientist & ML Engineer  
+📍 Kota, Rajasthan, India  
+🌱 Currently learning: Deep Learning & NLP  
+🔭 Building: End-to-end ML projects  
+📫 Reach me: devrajak22@gmail.com | [LinkedIn]((https://www.linkedin.com/in/siddharthrajak/))
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **ML/DS:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Learning:** PyTorch, TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+| Project | Description | Tech |
+|---|---|---|
+| 🏠 House Price Predictor | End-to-end ML with Streamlit UI | Python, Sklearn, Streamlit |
+| 💬 Sentiment Analyzer | NLP model on Twitter data | Python, NLP, Flask |
+
+## 📊 GitHub Stats
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth0444&show_icons=true&theme=radical)
