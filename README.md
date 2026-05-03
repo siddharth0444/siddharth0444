@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats
 
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth0444&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth0444&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth0444&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth0444&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=siddharth0444&theme=radical&hide_border=true)
