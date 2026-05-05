@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Featured Projects
-*(Coming Soon — building actively!)*
+🏠 House Price Predictor
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
