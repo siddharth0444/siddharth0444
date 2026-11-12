@@ -2,7 +2,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=siddharth0444&color=blueviolet&style=flat)
 
 🎓 CS Graduate | Aspiring Data Scientist & ML Engineer  
-📍 Kota, Rajasthan, India  
+📍 Jaipur, Rajasthan, India  
 🌱 Currently learning: Deep Learning & NLP  
 🔭 Building: End-to-end ML projects  
 📫 Reach me: devrajak22@gmail.com | [LinkedIn](https://linkedin.com/in/siddharthrajak)
