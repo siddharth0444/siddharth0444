@@ -1,7 +1,7 @@
 # Hi, I'm Siddharth Rajak 👋
 ![Visitors](https://komarev.com/ghpvc/?username=siddharth0444&color=blueviolet&style=flat)
 
-🎓 CS Graduate | Aspiring Data Scientist & ML Engineer  
+🎓 CS Graduate|Data Scientist & ML Engineer  
 📍 Jaipur, Rajasthan, India  
 🌱 Currently learning: Deep Learning & NLP  
 🔭 Building: End-to-end ML projects  
