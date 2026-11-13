@@ -3,7 +3,6 @@
 
 🎓 CS Graduate|Data Scientist & ML Engineer  
 📍 Jaipur, Rajasthan, India  
-🌱 Currently learning: Deep Learning & NLP  
 🔭 Building: End-to-end ML projects  
 📫 Reach me: devrajak22@gmail.com | [LinkedIn](https://linkedin.com/in/siddharthrajak)
 
