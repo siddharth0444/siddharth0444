@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&height=40&lines=Aspiring+Data+Scientist+%26+ML+Engineer;Building+end-to-end+ML+and+NLP+projects;BTech+graduate+%C2%B7+Open+to+entry-level+roles" alt="Aspiring Data Scientist and Machine Learning Engineer" />
 
 <p>
-  <b>BTech Graduate (2026)</b>&nbsp;&nbsp;·&nbsp;&nbsp;Kota, Rajasthan, India&nbsp;&nbsp;·&nbsp;&nbsp;<b>Available immediately</b>
+  <b>BTech Graduate (2026)</b>&nbsp;&nbsp;·&nbsp;&nbsp;Jaipur, Rajasthan, India&nbsp;&nbsp;·&nbsp;&nbsp;<b>Available immediately</b>
 </p>
 
 <a href="https://www.linkedin.com/in/siddharthrajak"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
