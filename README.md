@@ -155,8 +155,6 @@ A personal portfolio site that presents my projects and background, built as a s
 <a href="mailto:devrajak22@gmail.com"><img src="https://img.shields.io/badge/Email-devrajak22%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161B22&color=30363D" alt="Email: devrajak22@gmail.com" /></a>
 <a href="https://github.com/siddharth0444"><img src="https://img.shields.io/badge/GitHub-siddharth0444-161B22?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=161B22&color=30363D" alt="GitHub: siddharth0444" /></a>
 
-- **GitHub:** [github.com/siddharth0444](https://github.com/siddharth0444)
-
 <br />
 
 ---
