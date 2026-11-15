@@ -141,14 +141,6 @@ A personal portfolio site that presents my projects and background, built as a s
 
 <br />
 
-## Currently Learning
-
-- **Deep Learning:** neural network fundamentals, training and evaluation, using PyTorch and TensorFlow.
-- **Natural Language Processing:** moving beyond TF-IDF baselines toward embeddings and transformer-based models.
-- **Generative AI and LLM applications:** prompting, retrieval-augmented generation and building practical tools on top of large language models.
-
-<br />
-
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/siddharthrajak"><img src="https://img.shields.io/badge/LinkedIn-siddharthrajak-161B22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=161B22&color=0A66C2" alt="LinkedIn: siddharthrajak" /></a>
