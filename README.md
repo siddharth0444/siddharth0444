@@ -161,7 +161,7 @@ A personal portfolio site that presents my projects and background, built as a s
 
 <div align="center">
 
-I'm looking for entry-level Data Science and Machine Learning roles where I can work on real data problems and grow with an experienced team.<br />
+I'm looking for entry-level Data Science and Machine Learning roles where I can work on real data problems and grow with an experienced team
 If you're hiring, or would like to collaborate on an ML project, I'd be glad to hear from you.
 
 <br /><br />
