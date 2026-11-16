@@ -44,12 +44,7 @@ I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine
 
 **Data Science**
 
-<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-161B22?style=for-the-badge" alt="Seaborn" />
-<img src="https://img.shields.io/badge/Statistics-161B22?style=for-the-badge" alt="Statistics" />
-<img src="https://img.shields.io/badge/Exploratory_Data_Analysis-161B22?style=for-the-badge" alt="Exploratory Data Analysis" />
+<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" /><img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" /><img src="https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge" alt="Matplotlib" /><img src="https://img.shields.io/badge/Seaborn-161B22?style=for-the-badge" alt="Seaborn" /><img src="https://img.shields.io/badge/Statistics-161B22?style=for-the-badge" alt="Statistics" /><img src="https://img.shields.io/badge/Exploratory_Data_Analysis-161B22?style=for-the-badge" alt="Exploratory Data Analysis" />
 
 **Machine Learning**
 
