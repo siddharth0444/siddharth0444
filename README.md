@@ -127,8 +127,6 @@ A personal portfolio site that presents my projects and background, built as a s
 
 <br />
 
----
-
 <div align="center">
 
 I'm looking for entry-level Data Science and Machine Learning roles where I can work on real data problems and grow with an experienced team
