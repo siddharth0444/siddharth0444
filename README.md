@@ -54,10 +54,6 @@ I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine
 
 <img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" /><img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" /><img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /><img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /><img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 
-**Currently learning**
-
-<img src="https://img.shields.io/badge/Deep_Learning-learning-30363D?style=flat-square&labelColor=161B22" alt="Deep Learning (learning)<img src="https://img.shields.io/badge/PyTorch-learning-30363D?style=flat-square&logo=pytorch&logoColor=EE4C2C&labelColor=161B22" alt="PyTorch (learning)" /><img src="https://img.shields.io/badge/TensorFlow-learning-30363D?style=flat-square&logo=tensorflow&logoColor=FF6F00&labelColor=161B22" alt="TensorFlow (learning)" /><img src="https://img.shields.io/badge/NLP-learning-30363D?style=flat-square&labelColor=161B22" alt="NLP (learning)" /><img src="https://img.shields.io/badge/Generative_AI-learning-30363D?style=flat-square&labelColor=161B22" alt="Generative AI (learning)" /><img src="https://img.shields.io/badge/LLMs-learning-30363D?style=flat-square&labelColor=161B22" alt="LLMs (learning)" />
-
 <br />
 
 ## Featured Projects
