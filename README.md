@@ -40,8 +40,7 @@ I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine
 
 **Programming**
 
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /><img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge" alt="SQL" />
 
 **Data Science**
 
