@@ -58,6 +58,19 @@ I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine
 
 ## Featured Projects
 
+### [Credit Risk Scorer](https://github.com/siddharth0444/credit-risk-scorer)
+
+<img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square&labelColor=161B22" alt="Status: Completed" />
+
+Predicts which credit card customers will miss next month's payment, explains every score, and turns predictions into decisions based on what each kind of mistake costs. Built on 30,000 real customers.
+
+- Gradient boosting model with **ROC-AUC 0.780** on a held-out test set, tuned on log loss; predicted and actual default rates agree within about 2 points.
+- Decision threshold set by business cost rather than accuracy: catches 72% of defaulters at **27% lower cost** than the best strategy without a model.
+- Per-customer reason codes and a fairness audit across sex, age, education and marital status, which are excluded from the model's inputs.
+- Streamlit app to score customers and explore the decision policy; 32 tests and CI.
+
+`Python` `scikit-learn` `Pandas` `Streamlit` `Matplotlib` `pytest` `GitHub Actions`
+
 ### [India Air Quality Analysis](https://github.com/siddharth0444/india-air-quality-analysis)
 
 <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square&labelColor=161B22" alt="Status: Completed" />
