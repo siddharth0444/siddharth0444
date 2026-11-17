@@ -29,7 +29,7 @@ I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine
 
 ## About Me
 
-- BTech graduate (July 2026), starting my career as a fresher with internship experience.
+- BTech (Computer Science and Engineering) graduate 
 - Focused on Data Science and Machine Learning, especially turning raw data into models and tools that answer a concrete question.
 - I build practical projects with real structure: reproducible notebooks, documented results, automated tests, and clearly stated limitations.
 - Open to entry-level Data Scientist and Machine Learning Engineer roles, and available to start immediately.
