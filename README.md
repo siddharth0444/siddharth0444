@@ -58,6 +58,19 @@ I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine
 
 ## Featured Projects
 
+### [India Air Quality Analysis](https://github.com/siddharth0444/india-air-quality-analysis)
+
+<img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square&labelColor=161B22" alt="Status: Completed" />
+
+How much did the 2020 COVID-19 lockdown and Diwali really change air quality in 26 Indian cities? An analysis of CPCB pollution data (2015–2020) that corrects for pre-existing trends instead of making a naive before-and-after comparison.
+
+- Lockdown cut NO₂ by about 39% and PM2.5 by about 33% in the typical city, estimated with difference-in-differences and a weekly block bootstrap; the result holds under six alternative analysis choices.
+- Diwali event study with a two-sided baseline that separates the festival spike from the seasonal rise in pollution.
+- Found and documented sensor faults that change conclusions, such as a faulty CO sensor that made Ahmedabad's AQI look worse than Delhi's.
+- Tested analysis package, reproducible notebooks and CI.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `pytest` `GitHub Actions`
+
 ### [House Price Prediction](https://github.com/siddharth0444/house-price-prediction)
 
 <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square&labelColor=161B22" alt="Status: Completed" />
