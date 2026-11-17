@@ -61,6 +61,7 @@ I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine
 ### [Credit Risk Scorer](https://github.com/siddharth0444/credit-risk-scorer)
 
 <img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square&labelColor=161B22" alt="Status: Completed" />
+<a href="https://credit-risk-scorer-h3p79hjdzkyvnondvpcp95.streamlit.app/"><img src="https://img.shields.io/badge/Live_demo-Open_app-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=161B22" alt="Live demo: open the app" /></a>
 
 Predicts which credit card customers will miss next month's payment, explains every score, and turns predictions into decisions based on what each kind of mistake costs. Built on 30,000 real customers.
 
