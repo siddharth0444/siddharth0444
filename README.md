@@ -85,19 +85,6 @@ How much did the 2020 COVID-19 lockdown and Diwali really change air quality in 
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `pytest` `GitHub Actions`
 
-### [House Price Prediction](https://github.com/siddharth0444/house-price-prediction)
-
-<img src="https://img.shields.io/badge/Status-Completed-2EA043?style=flat-square&labelColor=161B22" alt="Status: Completed" />
-
-End-to-end regression project on the California Housing dataset (20,640 records), from exploratory analysis to a Streamlit app that serves predictions.
-
-- Compared four models: Linear Regression, Decision Tree, Random Forest and Gradient Boosting.
-- Best model, Random Forest: **R² 0.805**, RMSE ≈ $50.6K and MAE ≈ $32.8K on a 20% held-out test set.
-- EDA showed median income as the strongest single predictor of house value (correlation ≈ 0.69).
-- Interactive Streamlit app for single-house price estimates.
-
-`Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn` `Streamlit`
-
 ### [SupportIQ: Customer Support Intelligence](https://github.com/siddharth0444/supportiq-customer-support-intelligence)
 
 <img src="https://img.shields.io/badge/Status-In_development_(MVP)-D29922?style=flat-square&labelColor=161B22" alt="Status: In development (MVP)" />
