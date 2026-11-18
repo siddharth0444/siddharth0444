@@ -12,6 +12,10 @@
 <a href="mailto:devrajak22@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 <a href="https://github.com/siddharth0444"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=siddharth0444&label=Profile%20views&color=0EA5E9&style=flat-square" alt="Profile views" />
+
 </div>
 
 <br />
