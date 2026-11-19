@@ -105,11 +105,12 @@ An NLP analytics tool for support tickets that classifies ticket intent, estimat
 
 ### [Personal Portfolio Website](https://github.com/siddharth0444/siddharth-portfolio)
 
-<img src="https://img.shields.io/badge/Status-In_development-D29922?style=flat-square&labelColor=161B22" alt="Status: In development" />
+<img src="https://img.shields.io/badge/Status-Live-2EA043?style=flat-square&labelColor=161B22" alt="Status: Live" />
+<a href="https://siddharth-portfolio-navy.vercel.app"><img src="https://img.shields.io/badge/Live_site-Open_portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=161B22" alt="Live site: open the portfolio" /></a>
 
-A personal portfolio site that presents my projects and background, built as a single-page React application.
+A notebook-style portfolio that presents my projects with their real result charts and key metrics, built as a single-page React application and deployed on Vercel.
 
-`React` `Vite` `JavaScript` `CSS`
+`React` `Vite` `JavaScript` `CSS` `Vercel`
 
 <br />
 
