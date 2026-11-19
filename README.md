@@ -20,7 +20,7 @@
 
 <br />
 
-I'm an entry-level Data Scientist and Machine Learning Engineer. I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use.
+I'm Data Scientist and Machine Learning Engineer. I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use.
 
 **What I can work on**
 
