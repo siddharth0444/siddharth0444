@@ -76,25 +76,31 @@ Predicts which credit card customers will miss next month's payment, explains ev
 
 `Python` `scikit-learn` `Pandas` `Streamlit` `Matplotlib` `pytest` `GitHub Actions`
 
-<details>
-<summary><b>Architecture and screenshots</b></summary>
-
-<br />
+**Architecture**
 
 ```mermaid
-flowchart LR
-    A[("UCI credit card<br/>dataset · 30k customers")] --> B["Load and validate<br/>80/20 stratified split"]
-    B --> C["5-fold CV comparison<br/>baseline · logistic reg · gradient boosting"]
-    C --> D["Random search tuning<br/>on log loss"]
-    D --> E["Cost-based threshold<br/>from out-of-fold predictions"]
-    E --> F["Final fit and one-time<br/>test-set evaluation"]
-    F --> G["Explainability<br/>importance + reason codes"]
-    F --> H["Fairness audit<br/>sex · age · education · marital"]
-    F --> I[("Model artifact<br/>+ metadata + tables")]
-    G --> I
-    H --> I
-    I --> J["Streamlit app<br/>score · decision policy · model card"]
+flowchart TB
+    subgraph P["Training pipeline"]
+        direction LR
+        A[("UCI credit card<br/>dataset · 30k customers")] --> B["Load and validate<br/>80/20 stratified split"]
+        B --> C["5-fold CV comparison<br/>baseline · logistic reg · gradient boosting"]
+        C --> D["Random search tuning<br/>on log loss"]
+        D --> E["Cost-based threshold<br/>from out-of-fold predictions"]
+        E --> F["Final fit and one-time<br/>test-set evaluation"]
+    end
+    subgraph O["Outputs and app"]
+        direction LR
+        G["Explainability<br/>importance + reason codes"] --> I[("Model artifact<br/>+ metadata + tables")]
+        H["Fairness audit<br/>sex · age · education · marital"] --> I
+        I --> J["Streamlit app<br/>score · decision policy · model card"]
+    end
+    P --> O
 ```
+
+<details>
+<summary><b>Screenshots</b></summary>
+
+<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/siddharth0444/credit-risk-scorer/main/reports/figures/05_cost_curve.png" alt="Cost per customer at each decision threshold, minimised at 0.17" width="49%" />
@@ -116,10 +122,7 @@ How much did the 2020 COVID-19 lockdown and Diwali really change air quality in 
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `pytest` `GitHub Actions`
 
-<details>
-<summary><b>Architecture and screenshots</b></summary>
-
-<br />
+**Architecture**
 
 ```mermaid
 flowchart LR
@@ -134,6 +137,11 @@ flowchart LR
     G --> H
     H --> I["Reproducible notebooks"]
 ```
+
+<details>
+<summary><b>Screenshots</b></summary>
+
+<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/siddharth0444/india-air-quality-analysis/main/reports/figures/03_lockdown_overview.png" alt="Lockdown effect on each pollutant, adjusted for pre-lockdown trend" width="49%" />
@@ -156,10 +164,7 @@ An NLP analytics tool for support tickets that classifies ticket intent, estimat
 
 `Python` `scikit-learn` `FastAPI` `Streamlit` `Plotly` `pytest` `GitHub Actions`
 
-<details>
-<summary><b>Architecture</b></summary>
-
-<br />
+**Architecture**
 
 ```mermaid
 flowchart LR
@@ -174,8 +179,6 @@ flowchart LR
     D --> E["FastAPI<br/>/predict · /analyze-csv · /health"]
     D --> F["Streamlit + Plotly<br/>dashboard"]
 ```
-
-</details>
 
 ### [Personal Portfolio Website](https://github.com/siddharth0444/siddharth-portfolio)
 
