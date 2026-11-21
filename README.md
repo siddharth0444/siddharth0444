@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0D1117,55:111827,100:1E1B4B&text=Siddharth%20Rajak&fontColor=E6EDF3&fontSize=44&fontAlignY=42&desc=Data%20Science%20%C2%B7%20Machine%20Learning&descAlignY=68&descSize=17&descColor=94A3B8" alt="Siddharth Rajak — Data Science · Machine Learning" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&height=40&lines=Aspiring+Data+Scientist+%26+ML+Engineer;Building+end-to-end+ML+and+NLP+projects;BTech+graduate+%C2%B7+Open+to+entry-level+roles" alt="Aspiring Data Scientist and Machine Learning Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&height=40&lines=Data+Scientist+%26+ML+Engineer;Building+end-to-end+ML+and+NLP+projects;BTech+CS+graduate+%C2%B7+Available+immediately" alt="Data Scientist and Machine Learning Engineer" />
 
 <p>
   <b>BTech CS Graduate (2026)</b>&nbsp;&nbsp;·&nbsp;&nbsp;Jaipur, Rajasthan, India&nbsp;&nbsp;·&nbsp;&nbsp;<b>immediate joining</b>
 </p>
 
 <a href="https://www.linkedin.com/in/siddharthrajak"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+<a href="https://siddharth-portfolio-navy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=E6EDF3" alt="Portfolio" /></a>
 <a href="mailto:devrajak22@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 <a href="https://github.com/siddharth0444"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
 
@@ -20,7 +21,15 @@
 
 <br />
 
-I'm Data Scientist and Machine Learning Engineer. I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use.
+I'm a Data Scientist and Machine Learning Engineer. I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use.
+
+**Highlights**
+
+| Project | Result |
+| :-- | :-- |
+| [Credit Risk Scorer](https://github.com/siddharth0444/credit-risk-scorer) | ROC-AUC **0.780** on 30k customers; cost-based threshold cuts expected loss by **27%** · [live app](https://credit-risk-scorer-h3p79hjdzkyvnondvpcp95.streamlit.app/) |
+| [India Air Quality Analysis](https://github.com/siddharth0444/india-air-quality-analysis) | Lockdown cut NO₂ by **~39%** and PM2.5 by **~33%**, estimated with difference-in-differences across 26 cities |
+| [SupportIQ](https://github.com/siddharth0444/supportiq-customer-support-intelligence) | Ticket intent, sentiment and priority served through FastAPI and a Streamlit dashboard |
 
 **What I can work on**
 
@@ -33,10 +42,10 @@ I'm Data Scientist and Machine Learning Engineer. I build machine learning proje
 
 ## About Me
 
-- BTech (Computer Science and Engineering) graduate 
-- Focused on Data Science and Machine Learning, especially turning raw data into models and tools that answer a concrete question.
-- I build practical projects with real structure: reproducible notebooks, documented results, automated tests, and clearly stated limitations.
-- Open to entry-level Data Scientist and Machine Learning Engineer roles, and available to start immediately.
+- BTech in Computer Science and Engineering (2026).
+- Most interested in turning raw data into models and tools that answer a concrete question.
+- Every project ships with reproducible notebooks, documented results, automated tests, CI, and clearly stated limitations.
+- Open to Data Scientist and Machine Learning Engineer roles, and available to start immediately.
 
 <br />
 
@@ -218,6 +227,7 @@ A notebook-style portfolio that presents my projects with their real result char
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/siddharthrajak"><img src="https://img.shields.io/badge/LinkedIn-siddharthrajak-161B22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=161B22&color=0A66C2" alt="LinkedIn: siddharthrajak" /></a>
+<a href="https://siddharth-portfolio-navy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-siddharth--portfolio-161B22?style=flat-square&logo=vercel&logoColor=E6EDF3&labelColor=161B22&color=30363D" alt="Portfolio" /></a>
 <a href="mailto:devrajak22@gmail.com"><img src="https://img.shields.io/badge/Email-devrajak22%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161B22&color=30363D" alt="Email: devrajak22@gmail.com" /></a>
 <a href="https://github.com/siddharth0444"><img src="https://img.shields.io/badge/GitHub-siddharth0444-161B22?style=flat-square&logo=github&logoColor=E6EDF3&labelColor=161B22&color=30363D" alt="GitHub: siddharth0444" /></a>
 
@@ -225,7 +235,7 @@ A notebook-style portfolio that presents my projects with their real result char
 
 <div align="center">
 
-I'm looking for entry-level Data Science and Machine Learning roles where I can work on real data problems If you're hiring, or would like to collaborate on an ML project, I'd be glad to hear from you.
+I'm looking for Data Science and Machine Learning roles where I can work on real data problems. If you're hiring, or would like to collaborate on an ML project, I'd be glad to hear from you.
 
 <br /><br />
 
