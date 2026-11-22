@@ -193,7 +193,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/Status-Live-2EA043?style=flat-square&labelColor=161B22" alt="Status: Live" />
 <a href="https://siddharth-portfolio-navy.vercel.app"><img src="https://img.shields.io/badge/Live_site-Open_portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=161B22" alt="Live site: open the portfolio" /></a>
 
-A notebook-style portfolio that presents my projects with their real result charts and key metrics, built as a single-page React application and deployed on Vercel.
+A notebook-style portfolio that presents my projects with their real result charts and key metrics ,certificates, achievements , built as a single-page React application and deployed on Vercel.
 
 `React` `Vite` `JavaScript` `CSS` `Vercel`
 
