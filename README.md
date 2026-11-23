@@ -42,7 +42,7 @@ I'm a Data Scientist and Machine Learning Engineer. I build machine learning pro
 
 ## About Me
 
-- BTech in Computer Science and Engineering (2026).
+- BTech in Computer Science and Engineering, Jaipur Engineering College and Research Centre (JECRC), 2022–2026.
 - Most interested in turning raw data into models and tools that answer a concrete question.
 - Every project ships with reproducible notebooks, documented results, automated tests, CI, and clearly stated limitations.
 - Open to Data Scientist and Machine Learning Engineer roles, and available to start immediately.
