@@ -49,6 +49,18 @@ I'm a Data Scientist and Machine Learning Engineer. I build machine learning pro
 
 <br />
 
+## Certifications
+
+| Certification | Issuer | Date |
+| :-- | :-- | :-- |
+| OCI 2025 Certified Data Science Professional | Oracle | Sep 2025 |
+| OCI 2025 Certified Generative AI Professional | Oracle | Sep 2025 |
+| OCI 2025 Certified AI Foundations Associate | Oracle | 2025 |
+| [Machine Learning for Data Science Projects](https://www.credly.com/badges/7d33fb5d-3f29-4bfd-903e-f510fd41137f) | IBM SkillsBuild | Jul 2025 |
+| Forward Program: problem solving, communication and digital skills | McKinsey.org | Dec 2025 |
+
+<br />
+
 ## Technical Skills
 
 **Programming**
