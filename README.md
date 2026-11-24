@@ -17,6 +17,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=siddharth0444&label=Profile%20views&color=0EA5E9&style=flat-square" alt="Profile views" />
 
+<p>
+  <a href="#about-me">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#certifications">Certifications</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#technical-skills">Skills</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#featured-projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#github-statistics">Stats</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#connect-with-me">Contact</a>
+</p>
+
 </div>
 
 <br />
