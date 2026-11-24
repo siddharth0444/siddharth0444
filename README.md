@@ -188,7 +188,7 @@ An NLP analytics tool for support tickets that classifies ticket intent, estimat
 - Automated tests with pytest, linting with Ruff and a passing GitHub Actions CI pipeline.
 - Currently trained on synthetic demo data. A human-labelled benchmark and model comparison are next on the roadmap.
 
-`Python` `scikit-learn` `FastAPI` `Streamlit` `Plotly` `pytest` `GitHub Actions`
+`Python` `scikit-learn` `FastAPI` `Streamlit` `Plotly` `pytest` `Ruff` `GitHub Actions`
 
 **Architecture**
 
