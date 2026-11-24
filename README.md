@@ -34,6 +34,7 @@ I'm a Data Scientist and Machine Learning Engineer. I build machine learning pro
 | [Credit Risk Scorer](https://github.com/siddharth0444/credit-risk-scorer) | ROC-AUC **0.780** on 30k customers; cost-based threshold cuts expected loss by **27%** · [live app](https://credit-risk-scorer-h3p79hjdzkyvnondvpcp95.streamlit.app/) |
 | [India Air Quality Analysis](https://github.com/siddharth0444/india-air-quality-analysis) | Lockdown cut NO₂ by **~39%** and PM2.5 by **~33%**, estimated with difference-in-differences across 26 cities |
 | [SupportIQ](https://github.com/siddharth0444/supportiq-customer-support-intelligence) | Ticket intent, sentiment and priority served through FastAPI and a Streamlit dashboard |
+| [Personal Portfolio](https://github.com/siddharth0444/siddharth-portfolio) | Notebook-style React site with real result charts, deployed on Vercel · [live site](https://siddharth-portfolio-navy.vercel.app) |
 
 **What I can work on**
 
