@@ -78,7 +78,7 @@ I'm a Data Scientist and Machine Learning Engineer. I build machine learning pro
 
 **Machine Learning**
 
-<img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/><img src="https://img.shields.io/badge/Supervised_Learning-161B22?style=for-the-badge" alt="Supervised Learning" /><img src="https://img.shields.io/badge/Unsupervised_Learning-161B22?style=for-the-badge" alt="Unsupervised Learning" /><img src="https://img.shields.io/badge/Model_Evaluation-161B22?style=for-the-badge" alt="Model Evaluation" />
+<img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" /><img src="https://img.shields.io/badge/Supervised_Learning-161B22?style=for-the-badge" alt="Supervised Learning" /><img src="https://img.shields.io/badge/Unsupervised_Learning-161B22?style=for-the-badge" alt="Unsupervised Learning" /><img src="https://img.shields.io/badge/Model_Evaluation-161B22?style=for-the-badge" alt="Model Evaluation" />
 
 **Tools used in my projects**
 
