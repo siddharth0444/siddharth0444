@@ -258,4 +258,6 @@ I'm looking for Data Science and Machine Learning roles where I can work on real
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0EA5E9,100:6366F1" alt="" width="100%" />
 
+<sub><a href="#top">Back to top ↑</a></sub>
+
 </div>
