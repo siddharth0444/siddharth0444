@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0D1117,55:111827,100:1E1B4B&text=Siddharth%20Rajak&fontColor=E6EDF3&fontSize=44&fontAlignY=42&desc=Data%20Science%20%C2%B7%20Machine%20Learning&descAlignY=68&descSize=17&descColor=94A3B8" alt="Siddharth Rajak — Data Science · Machine Learning" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0D1117,55:111827,100:1E1B4B&text=Siddharth%20Rajak&fontColor=E6EDF3&fontSize=44&fontAlignY=42&desc=Data%20Science%20%C2%B7%20Machine%20Learning&descAlignY=68&descSize=17&descColor=94A3B8" alt="Siddharth Rajak — Data Science · Machine Learning" width="100%" /> 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&height=40&lines=Data+Scientist+%26+ML+Engineer;Building+end-to-end+ML+and+NLP+projects;BTech+CS+graduate+%C2%B7+Available+immediately" alt="Data Scientist and Machine Learning Engineer" />
 
@@ -25,7 +25,7 @@
 
 <br />
 
-I'm a Data Scientist and Machine Learning Engineer . I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use. As the world is moving towards whole new age of AI so its very necessary to learn about AI its workflow , procedures , command line integration (CLI) I am AI engineer.
+I'm a Data Scientist and Machine Learning Engineer . I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use. As the world is moving towards whole new age of AI so its very necessary to learn about AI its workflow , procedures , command line integration (CLI) I am AI automation engineer.
 
 **Highlights**
 
