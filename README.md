@@ -42,7 +42,7 @@ I'm a Data Scientist and Machine Learning Engineer . I build machine learning pr
 - Training, comparing and evaluating regression and classification models with scikit-learn
 - Text classification pipelines for NLP problems (TF-IDF with linear models)
 - Serving models through FastAPI services and Streamlit dashboards, backed by tests and CI
-
+- can work on llm , ai engineering , workflows, command line integration , prompt engineering , work flows ,testers and vercel.
 <br />
 
 ## About Me
