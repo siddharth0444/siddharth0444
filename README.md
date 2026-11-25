@@ -25,7 +25,7 @@
 
 <br />
 
-I'm a Data Scientist and Machine Learning Engineer. I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use.
+I'm a Data Scientist and Machine Learning Engineer . I build machine learning projects end to end: cleaning and exploring data, training and comparing models, and putting the results behind an API or an interactive app that people can actually use.
 
 **Highlights**
 
